@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class LinearSearch {
     public static void main(String[] args) {
 
-        /*initilize array with user input*/
+        /*initialize array with user input*/
         System.out.println("size of array ?");
         Scanner scanner = new Scanner(System.in);
 
